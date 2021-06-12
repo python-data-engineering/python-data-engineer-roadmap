@@ -180,6 +180,8 @@ This roadmap also contains a Web Framework and Template Engine that doesn’t fa
 
 * **Databricks** - Certified Associate Developer for Apache Spark 3.0 [[View](https://academy.databricks.com/exam/databricks-certified-associate-developer)]
 
+* **Airflow** - Astronomer Certification: Apache Airflow Fundamentals [[View](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam)]
+
 * **Confluent** - Certified Developer for Apache Kafka [[View](https://www.confluent.io/certification/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.brand_tp.prs_tgt.confluent-brand_mt.xct_rgn.india_lng.eng_dv.all&utm_term=confluent%20kafka%20certification&creative=&device=c&placement=&gclid=Cj0KCQjw2NyFBhDoARIsAMtHtZ6xAG2NHnnb6bx9Txyk1tZB2Tmtz6NcjnhayyIsozh3nHcYLO9UYoYaAvQSEALw_wcB)]
 
 * **Microsoft Azure** - Exam DP-203: Data Engineering on Microsoft Azure (Azure Data Engineer Associate) [[View](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)]
@@ -187,8 +189,6 @@ This roadmap also contains a Web Framework and Template Engine that doesn’t fa
 * **Google** - Professional Data Engineer [[View](https://cloud.google.com/certification/data-engineer/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkws-all-all-trial-b-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_355126076153-ADGP_Hybrid%20%7C%20BKWS%20-%20BMM%20%7C%20Txt%20~%20GCP%20~%20General_Professional%20Data%20Engineer-Google%20Certification-KWID_43700045013629701-kwd-819164094167&userloc_1007788-network_g&utm_term=KW_%2Bgoogle%20%2Bprofessional%20%2Bdata%20%2Bengineer%20%2Bcertification%20%2Btopics&gclid=Cj0KCQjw2NyFBhDoARIsAMtHtZ5luD0ks5nVjP24NVbI437IuMz202sWCJV1pvh7LehL8CN5OLF54h0aArIfEALw_wcB&gclsrc=aw.ds)]
 
 * **AWS** - Certified Big Data - Specialty [[View](https://aws.amazon.com/certification/certified-big-data-specialty/)]
-
-* **Airflow** - Astronomer Certification: Apache Airflow Fundamentals [[View](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam)]
 
 ## References
 
