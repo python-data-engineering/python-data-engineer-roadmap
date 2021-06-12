@@ -52,7 +52,7 @@ This roadmap also contains a Web Framework and Template Engine that doesn’t fa
 
 * **[Cloud]** Databricks Community Cloud for Apache Spark [[community.cloud.databricks.com](https://community.cloud.databricks.com/)]
 
-## MINIMUM REQUIRED SKILLS
+## TOOLS & TECHNOLOGIES
 
 ### Python Programming
 
