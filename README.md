@@ -205,3 +205,5 @@ This roadmap also contains a Web Framework and Template Engine that doesn’t fa
 * The Data Engineering Cookbook [[github.com/andkret/Cookbook](https://github.com/andkret/Cookbook)]
 
 * Google Docs to MD File Converter [[github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)]
+
+* Spark - The Definitive Guide [[https://books.google.co.in/books](https://books.google.co.in/books?id=pitLDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bill+Chambers%22&hl=en&sa=X&ved=2ahUKEwjlydS3ppnqAhVGzjgGHQskCU0QuwUwAHoECAQQCA#v=onepage&q&f=false)]
