@@ -1,8 +1,8 @@
 # Python Data Engineer - Roadmap
 
-Hello! I've created this list to help you to get started with **Data Engineering**. The list below contains a collection of links that have helped me out along the way (and can hopefully help you).
+Hello! We have created this list to help you to get started with **Data Engineering**. The list below contains a collection of links that have helped our Data Engineers out along the way (and can hopefully help you).
 
-This roadmap also contains a Web Framework and Template Engine that doesn’t fall under Data Engineering but can be used and helpful to build autonomous data pipelines dynamically.
+This roadmap also contains a Web Framework and Template Engine that doesn’t fall under Data Engineering but can be used and helpful to build autonomous/dynamic data pipelines.
 
 ## Basics of Data Engineering
 
